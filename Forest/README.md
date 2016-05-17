@@ -6,9 +6,9 @@ MIDS - Summer semester 2015
 * Tuhin Mahmud
 * Vamsi Sakhamuri
 
-**Final version**: https://github.com/juanjocarin/W207-final-project/blob/master/W207-Carin_Mahmud_Sakhamuri.ipynb
+**Final version**: https://github.com/juanjocarin/W207-Machine-Learning/blob/master/Forest/W207-Carin_Mahmud_Sakhamuri.ipynb
 
-[Predictions for the test set submitted to Kaggle](https://github.com/juanjocarin/W207-final-project/blob/master/Forest/test_labeled.csv)
+[Predictions for the test set submitted to Kaggle](https://github.com/juanjocarin/W207-Machine-Learning/blob/master/Forest/test_labeled.csv)
 
 [Presentation](https://docs.google.com/presentation/d/1Apk9JW_TBPbLmRxe0wNuiAUOZle4eu09Er-VbvTrwCs/edit?usp=sharing)
 
